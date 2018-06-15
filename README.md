@@ -1,2 +1,5 @@
 # hello-world
-Doing the thin
+Doing the thing
+
+Learning github
+And all the java I can.
